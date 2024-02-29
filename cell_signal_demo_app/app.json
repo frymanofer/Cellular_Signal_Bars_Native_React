@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "cell_signal_demo_app",
+    "slug": "cell_signal_demo_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
